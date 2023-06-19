@@ -1,0 +1,219 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: #e6e6e7;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 1280px;
+    margin: 0 auto;
+    background: #ffffffff;
+    box-shadow: 6px 6px 20px;
+}
+
+aside {
+    width: 370px;
+    background: #1e2939;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+
+.cv.monkey {
+    margin-top: 25px;
+}
+
+.second {
+    color: #ffffffff;
+}
+
+.link {
+    color: #ffffffff;
+    margin-top: 8px;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 40px;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.sss {
+    color: #fb6d3a;
+    font-size: 14px;
+    line-height: 24px;
+    margin-left: 10 auto;
+    padding: 0;
+    list-style-position: inside;
+}
+
+.white {
+    color: #ffffffff;
+}
+
+.contact.block {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.Tech.Skills.block {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+.Soft.Skills {
+    margin-top: 47px;
+    margin-left: 40px;
+}
+
+main {
+    padding-left: 88px;
+    padding-top: 102px;
+    padding-right: 102px;
+    padding-bottom: 88px;
+}
+
+.main.description {
+    width: 400px;
+}
+
+.Front-End.Developer.opis {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 1px;
+}
+
+.opis.tekst {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-top: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    list-style: inside;
+    text-align: justify;
+    justify-content: center;
+    width: 650px;
+}
+
+.Projects {
+    margin-top: 30px;
+}
+
+.linki {
+    list-style-position: inside;
+    padding: 0px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: none;
+    color: #595959;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+.same.linki {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: underline;
+    color: #595959;
+}
+
+.kropki {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: none;
+    color: #595959;
+}
+.projekt.nazwa {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 12px;
+    margin-top: 40px;
+}
+
+.front.styl {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+}
+.projekt.front {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.orange {
+    color: #fb6d3a;
+}
+
+.time.of.work {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+    margin-top: 0px;
+}
+
+.projekt.nazwa.mniejsza {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 555px;
+}
+
+.main.description.work {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.odstep {
+    margin-top: 11px;
+}
+
+.odstep.management {
+    margin-top: 11px;
+}
+
+.pm {
+    list-style: none;
+}
+
+.rodo {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 24px;
+
+    color: #000000;
+    text-align: justify;
+}
+
+.pppp {
+    color: white;
+}
